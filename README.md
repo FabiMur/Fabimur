@@ -48,7 +48,6 @@
 ---
 
 ## 📚 Currently Learning  
-- 🕹️ **Game Development**  
 - 🧠 **Machine Learning and CV**
 - 🔐 **Cryptography**
 
