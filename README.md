@@ -61,7 +61,5 @@
 ## 📫 How to Reach Me  
 - ✉️ Email: fabian@fabianmurgado.com  
 - 🔗 LinkedIn: [linkedin.com/in/fabianmurgado](https://linkedin.com/in/fabianmurgado)  
-- 📝 Medium: [medium.com/@yourusername](https://medium.com/@fabianmurgado)  
+- 📝 Medium: [medium.com/@fabianmurgado](https://medium.com/@fabianmurgado)  
 ---
-
-### ✨ “The only way to do great work is to love what you do.” — Steve Jobs
