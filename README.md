@@ -47,14 +47,10 @@
 
 ---
 
-## 📝 Blogs & Articles  
-
----
-
 ## 📚 Currently Learning  
 - 🕹️ **Game Development**  
-- 🧠 **Machine Learning**
-- 🔐 **Post-Quantum Cryptography**
+- 🧠 **Machine Learning and CV**
+- 🔐 **Cryptography**
 
 ---
 
