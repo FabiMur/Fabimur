@@ -4,7 +4,7 @@
 - 🎓 Software Engineer.  
 - 🏗️ Passionate about software, technology and math.  
 - 💪 Strength training enthusiast.  
-- 📖 Avid reader, always exploring books on technology and science.  
+- 📖 Daily reader, always exploring new books on technology and science.  
 - 🌍 Interested in technology, science, fitness and finance.  
 
 ---
