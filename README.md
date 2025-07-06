@@ -48,7 +48,7 @@
 ---
 
 ## 📚 Currently Learning  
-- 🧠 **Machine Learning and CV**
+- 🦀 **Rust**
 - 🔐 **Cryptography**
 
 ---
