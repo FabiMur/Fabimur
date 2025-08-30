@@ -39,17 +39,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-
----
-
-## 🚀 Projects  
-
----
-
-## 📚 Currently Learning  
-- 🦀 **Rust**
-- 🔐 **Cryptography**
-
 ---
 
 ## 📫 How to Reach Me  
