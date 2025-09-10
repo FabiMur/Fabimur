@@ -44,5 +44,4 @@
 ## 📫 How to Reach Me  
 - ✉️ Email: fabian@fabianmurgado.com  
 - 🔗 LinkedIn: [linkedin.com/in/fabianmurgado](https://linkedin.com/in/fabianmurgado)  
-- 📝 Medium: [medium.com/@fabianmurgado](https://medium.com/@fabianmurgado)  
 ---
