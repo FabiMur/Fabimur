@@ -1,6 +1,6 @@
-# 👋 Hello there, I'm Fabián Murgado!
+# Hello there, I'm Fabián Murgado!
 
-## ❓ About Me  
+## About Me  
 - 🎓 Software Engineer.  
 - 🏗️ Passionate about software and technology.  
 - 💪 Strength training enthusiast.  
